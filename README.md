@@ -111,5 +111,5 @@ The app will instantly show whether the message is Spam (🔴) or Safe (🟢).
 
 # 👨‍💻 Author
 
-Usman Amin (usmanamin3254)
-© 2025  AI Email/SMS Spam Detector Project
+Usman Amin (Usman-Amin-AI)
+© 2026  AI-Powered Email/SMS Spam Detector Project
